@@ -1,0 +1,79 @@
+.navbar-default .navbar-nav > li > a:hover {
+    color: #006fbd;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #F4ECE1;
+}
+
+#about-me {
+    text-align: center;
+    font-size: 3em;
+}
+
+#cont1 {
+    margin-top: 75px;
+}
+
+.navbar.navbar-default.navbar-fixed-top {
+    text-align: center;
+}
+
+.cl001 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.cl002 {
+    font-size: 17px;
+    padding-bottom: 65px;
+}
+
+.cl003 {
+    font-size: 1.75em;
+}
+
+.cl004 {
+    background-color: #F4ECE1;
+    max-width: 550px;
+    max-height: 476px;
+    margin-bottom: 45px;
+}
+
+.cl005 {
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.cl006 {
+    font-size: 17px;
+    padding-bottom: 40px;
+}
+
+#id005 {
+    margin-top: 25px;
+}
+
+.pack1 {
+    height: 200px;
+} 
+
+.footer1 {
+    background-color: black;
+    color: white;
+    height: 35px;
+    margin-bottom: 10px;
+    padding-left: 60px;
+    padding-top: 5px;
+}
+
+.service {
+    text-align: center;
+}
+
+.alert {
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
